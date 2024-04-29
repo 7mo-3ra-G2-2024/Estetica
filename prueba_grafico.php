@@ -28,7 +28,7 @@
 
 	<div id="box">
     <h1></h1>
-    <a href="../index.html">| Ir al inicio</a>
+    <a href="index.html">Ir al inicio</a>
     <canvas id="grafica"></canvas>
         <script>
         	
